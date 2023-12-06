@@ -1,2 +1,2 @@
 # TTC_Subway_Delay_Analysis
-TTC subway delay analysis
+The Toronto Transit Commission (TTC) reports as many as 130 different types of delay causes every year. The resilience of the subway system to various contingencies is vital for passenger satisfaction and operational efficiency. This project aims to delve into the transit resilience of the TTC subway system, particularly examining the causes of delays. Our analysis encompasses a comprehensive approach, considering behavioral, political, and technological factors. The findings of this project offer the TTC and policymakers a detailed understanding of the prevailing challenges. 
