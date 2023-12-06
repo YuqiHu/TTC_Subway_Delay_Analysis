@@ -5,6 +5,7 @@ The Toronto Transit Commission (TTC) reports as many as 130 different types of d
 1. ```Hourly Weather Data.ipynb```: Clean the hourly Toronto Weather CSV Data
 2. ```Daily Weather Data.ipynb```: Clean the daily Toronto Weather CSV Data
 3. ```Criminal Data and Disorderly Patrons Data.ipynb```: Plot the Criminal Data and Disorderly Patron Data on Toronto Map
+4. ```Weather Snow Delay Regression.ipynb```: Attempted regression model based on merged hourly and mean hourly data with weather-related delays 
 
 **Overview of Data**:
 1. ```Toronto hourly weather data```: CSV file records the Toronto hourly weater data from January 2014 to September 2023
@@ -14,4 +15,10 @@ The Toronto Transit Commission (TTC) reports as many as 130 different types of d
 **Links to Medium Articles:**
 
 
-**Workflow for xxx Data:** 
+**Workflow:**
+![Overall Illustration](https://github.com/YuqiHu/TTC_Subway_Delay_Analysis/raw/20231109-nicole-regressionmodel/Overall_Illustration.png)
+
+
+
+
+
