@@ -18,7 +18,9 @@ The Toronto Transit Commission (TTC) reports as many as 130 different types of d
 3. ```Assault_Open_Data```: CSV file records the Toronto Assault data from January 2014 to September 2023
 4. ```TTC_Real_Delay_2014_2023```: Cleaned CSV file records the TTC delay reasons which has delay over i min
 5. ```TTC_Real_Delay_2014_to_2023_Cleaned```: Cleaned CSV file records the TTC delay reason
-6. ```ttc-subway-delay-codes```: CSV file records the delay code and the code description 
+6. ```ttc-subway-delay-codes```: CSV file records the delay code and the code description
+7. ```TTC_subway_ridership_by_lines```: Cleaned CSV file records the riderships based on each subway line
+8. ```TTC_stations```: CSV file records the stations and corresponding subway line
 
 **Links to Medium Articles:**
 
