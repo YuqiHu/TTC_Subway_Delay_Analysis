@@ -21,6 +21,7 @@ The Toronto Transit Commission (TTC) reports as many as 130 different types of d
 6. ```ttc-subway-delay-codes```: CSV file records the delay code and the code description
 7. ```TTC_subway_ridership_by_lines```: Cleaned CSV file records the riderships based on each subway line
 8. ```TTC_stations```: CSV file records the stations and corresponding subway line
+9. ```output``` folder: The folder holds exported CSV for 
 
 **Links to Medium Articles:**
 
