@@ -32,11 +32,13 @@ The Toronto Transit Commission (TTC) reports as many as 130 different types of d
 6. ```TTC_ridership``` folder: Contains CSV files record the TTC subway ridership data from 2014 to 2022, and subway stations information
 
 **Links to Medium Articles:**
+Web Scraping Dynamic Content with Selenium: TTC Subway Schedule - https://medium.com/@hyq200117/web-scraping-dynamic-content-with-selenium-ttc-subway-schedule-6b34632ed4e7](https://medium.com/@hyq200117/web-scraping-dynamic-content-with-selenium-ttc-subway-schedule-6b34632ed4e7
 
 
 
 **Workflow:**
-![Overall Illustration](https://github.com/YuqiHu/TTC_Subway_Delay_Analysis/raw/20231109-nicole-regressionmodel/Overall_Illustration.png)
+![Overall Illustration](https://github.com/YuqiHu/TTC_Subway_Delay_Analysis/raw/20231109-ni
+cole-regressionmodel/Overall_Illustration.png)
 
 
 
