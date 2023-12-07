@@ -20,6 +20,8 @@ The Toronto Transit Commission (TTC) reports as many as 130 different types of d
 5. ```TTC_Real_Delay_2014_to_2023_Cleaned```: Cleaned CSV file records the TTC delay reason
 7. ```TTC_subway_ridership_by_lines```: CSV file records TTC subway ridership by each subway line
 8. ```Subway_Map```: CSV file records TTC subway stations and corresponding coordination system
+9. ```ttc-subway-delay-codes```: xlsx file records TTC subwaydelay code and corresponding code description
+10. ```TTC_stations```: CSV file records TTC subway station and corresponding subway line
 
 **Overview of Folder**:
 1. ```Criminal Data and Disorderly Patrons Data ``` folder: Contains the geometry SHP, assult open data CSV and Criminal Data and Disorderly Patrons Data.ipynb
