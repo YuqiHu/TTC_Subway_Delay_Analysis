@@ -18,7 +18,16 @@ The Toronto Transit Commission (TTC) reports as many as 130 different types of d
 3. ```Assault_Open_Data```: CSV file records the Toronto Assault data from January 2014 to September 2023
 4. ```TTC_Real_Delay_2014_2023```: Cleaned CSV file records the TTC delay reasons which has delay over i min
 5. ```TTC_Real_Delay_2014_to_2023_Cleaned```: Cleaned CSV file records the TTC delay reason
-6. ```ttc-subway-delay-codes```: CSV file records the delay code and the code description 
+7. ```TTC_subway_ridership_by_lines```: CSV file records TTC subway ridership by each subway line
+8. ```Subway_Map```: CSV file records TTC subway stations and corresponding coordination system
+
+**Overview of Folder**:
+1. ```Criminal Data and Disorderly Patrons Data ``` folder: Contains the geometry SHP, assult open data CSV and Criminal Data and Disorderly Patrons Data.ipynb
+2. ```Daily Weather Data ``` folder: Contains CSV file records the Toronto Daily weater data from January 2014 to September 2023 and Daily Weather Data.ipynb
+3. ```Hourly Weather Data``` folder: Contains CSV file records the Toronto Hourly weater data from January 2014 to September 2023 and Hourly Weather Data.ipynb
+4. ```Output``` folder: Contains CSV files record cleaned TTC subway delay reasons and record TTC subway ridership by each subway line 
+5. ```TTC_delay``` folder: Contains CSV files record the TTC subway delay data from January 2014 to September 2023, and the delay code and code description
+6. ```TTC_ridership``` folder: Contains CSV files record the TTC subway ridership data from 2014 to 2022, and subway stations information
 
 **Links to Medium Articles:**
 
