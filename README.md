@@ -9,7 +9,7 @@ The Toronto Transit Commission (TTC) reports as many as 130 different types of d
 5. ```TTC_delay_data.ipynb```: Clean the TTC_Real_Delay_2014_2023 CSV Data; Exploration Data Analysis for TTC delay data
 6. ```TTC_Subway_Delay_Data_API.ipynb```: The API file to access Toronto Open Data
 7. ```TTC_schedule.ipynb```: Web scrap the TTC Line 1 and Line 2 schedule for St,George station and Bloor-Yonge station
-8. ```TTC_subway_ridership.ipynb```: clean the '' CSV Data
+8. ```TTC_subway_ridership.ipynb```: clean the TTC Subway ridership CSV Data
 9. ```Twitter.ipynb```: Collect TTC subway delay posts information through Twitter and analysis the posting time
 
 **Overview of Data**:
